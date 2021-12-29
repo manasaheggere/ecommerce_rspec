@@ -1,0 +1,18 @@
+require: rubocop-rails
+
+# Style/FrozenStringLiteralComment:
+#   Enabled: false
+
+# Style/StringLiterals:
+#   Enabled: true
+#   EnforcedStyle: double_quotes
+
+# Style/StringLiteralsInInterpolation:
+#   Enabled: true
+#   EnforcedStyle: double_quotes
+
+# Style/IndentationStyle:
+#   Enabled: false
+
+Style/Documentation:
+  Enabled: false
